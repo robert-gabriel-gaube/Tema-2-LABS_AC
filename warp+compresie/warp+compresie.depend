@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1654201625 source:d:\documents\intel labs\warp+compresie\client.c
+	<stdio.h>
+	<stdlib.h>
+	"compresie.h"
+	"warp.h"
+	"mesh.h"
+
+1654200150 source:d:\documents\intel labs\warp+compresie\compresie.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1654194462 d:\documents\intel labs\warp+compresie\compresie.h
+
+1654201426 source:d:\documents\intel labs\warp+compresie\warp.c
+
+1654201498 d:\documents\intel labs\warp+compresie\warp.h
+
+1654200574 d:\documents\intel labs\warp+compresie\mesh.h
+
